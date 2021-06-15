@@ -6,7 +6,6 @@
     <RootNamespace>WebScraper</RootNamespace>
 	 <UseWPF>true</UseWPF>
 	 <UseWindowsForms>true</UseWindowsForms>
-	 <ApplicationIcon>Logo.ico</ApplicationIcon>
   </PropertyGroup>
 
 </Project>
